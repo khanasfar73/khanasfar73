@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanasfar73
-- 👀 I’m interested in *RTL Design/Verification, Python, Rust*. I'm Proficient in C and I hate it with passion.
-- 🌱 I’m currently learning *Conformal LEC & Synopsys Formality*. Already have good understanding of *Genus, Innovus & Virtuoso*.
-- 💞️ I’m looking to collaborate on *RTL Designs & FPGAs*. Also, *Rust*.
+- 👀 I’m interested in Physical Design/Physical Verification, Python.
+- 🌱 I’m currently learning *Conformal LEC & Synopsys Formality*. Have understanding of *Genus & Innovus*.
+- 💞️ I’m looking to collaborate on *Full chip development*, RTL2GDSII bringup.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/khanasfar73/), <m.khan@wayne.edu>.
 
 <!---
